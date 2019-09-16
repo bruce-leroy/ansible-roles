@@ -1,4 +1,5 @@
 ---
-ssh_permit_root_login: without-password
+ssh_permit_root_login: "without-password"
 ssh_password_authentication: "yes"
 ssh_x11_forwarding: "no"
+ssh_authorized_keys_file: "/etc/ssh/authorized_keys/%u"
