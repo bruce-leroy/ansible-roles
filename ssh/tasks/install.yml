@@ -1,1 +1,5 @@
-
+---
+- name: Install Tomcat (yum)
+  yum:
+    name: tomcat
+    state: present
