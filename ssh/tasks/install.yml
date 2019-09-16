@@ -1,5 +1,5 @@
 ---
-- name: Install Tomcat (yum)
+- name: Install sshd (yum)
   yum:
-    name: tomcat
+    name: sshd
     state: present
