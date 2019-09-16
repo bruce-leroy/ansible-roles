@@ -1,1 +1,4 @@
-
+tomcat_certificate_bundle: ""
+tomcat_certificate_pass: ""
+tomcat_port: ""
+tomcat_key_type: "PKCS12"
