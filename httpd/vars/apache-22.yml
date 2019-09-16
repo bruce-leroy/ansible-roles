@@ -1,1 +1,7 @@
 
+servername: ""
+ssl_protocol: ""
+ssl_cipher_suite: ""
+ssl_certificate: ""
+ssl_key: ""
+ssl_certificate_chain: ""
