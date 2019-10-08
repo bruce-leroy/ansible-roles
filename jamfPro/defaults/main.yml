@@ -1,1 +1,7 @@
-
+#File holds defaults for configuration files and such
+---
+jamf_db_server: 127.0.0.1
+jamf_db: jamfsofware
+jamf_db_port: 3306
+jamf_db_user:
+jamf_db_pass:

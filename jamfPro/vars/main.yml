@@ -1,1 +1,3 @@
-
+---
+jamfprodirectory: installer
+jamfproinstaller: jamfproinstaller.run
